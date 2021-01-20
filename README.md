@@ -1,3 +1,3 @@
 # ClassMetotDemo
-Banka Müşteri Takibi 
+Bank Customer Tracking
 Demo project for learning class and methods 
